@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARshit-XD
 - 👀 I’m interested in COMPUTER SCIENCE AND SOFTWARE ENGINEERING
-- 🌱 I’m currently learning BASICS WITH CS50X
+- 🌱 I’m currently learning WEB DEV.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
